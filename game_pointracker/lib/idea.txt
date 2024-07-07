@@ -1,0 +1,20 @@
+The idea is to build an app to keep track of all player's points which they score.
+
+Function of app:
+    1) Keep a count of all each player's score.
+    2) Should have number of rounds in consideration.
+    3) initial idea is for poker games
+
+Full funtionalities with flow:
+1) Round number display container. 
+2) List View for player name and score display.
+3) on click, input addition of points, then click done for increments.
+4) Bottom floating button for Round increments.
+
+Scaffold background=184,243,252,1.0
+List background= 174,226,255,1.0
+
+Build UI on 26th ish..
+
+final backColor = const Color(0xffA084DC);
+  final listColor = const Color(0xffBFACE2);
