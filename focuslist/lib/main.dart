@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:focuslist/screens/homePage.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,6 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(),
+      home: HomePage(),
     );
   }
 }
