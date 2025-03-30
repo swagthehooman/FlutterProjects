@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 
 abstract class AbstractTheme {
-  static const primaryLightGrey = Color(0x00e4ebf1);
-  static const primaryDarkGrey = Color(0x00b5bfc6);
-  static const primaryDarkerGrey = Color(0x006e7f8d);
+  static const primaryLightGrey = Color(0xffe4ebf1);
+  static const primaryDarkGrey = Color(0xffb5bfc6);
+  static const primaryDarkerGrey = Color(0xff6e7f8d);
 
-  static const primaryShadow = Color(0x00fafbff);
-  static const secondaryShadow = Color(0x00161b1d);
+  static const primaryShadow = Color(0xfffafbff);
+  static const secondaryShadow = Color(0xff161b1d);
 }
 
 class AppColorsExtension extends ThemeExtension<AppColorsExtension> {
