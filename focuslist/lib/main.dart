@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:focuslist/constants/CustomThemeData.dart';
-import 'package:focuslist/screens/homePage.dart';
+import 'package:focuslist/screens/loginPage.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,10 +15,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        primaryColor: Colors.black,
-      ),
-      home: HomePage(),
+      home: LoginPage(),
     );
   }
 }
