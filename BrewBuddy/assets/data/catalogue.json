@@ -1,0 +1,135 @@
+{
+  "menu": {
+    "caffeinated_drinks": [
+      {
+        "name": "Espresso",
+        "image_url": "https://unsplash.com/s/photos/espresso", 
+        "price": { "USD": 3.0, "EUR": 2.8, "INR": 250, "GBP": 2.5 }
+      },
+      {
+        "name": "Cappuccino",
+        "image_url": "https://pixabay.com/images/search/cappuccino/", 
+        "price": { "USD": 4.5, "EUR": 4.2, "INR": 350, "GBP": 3.8 }
+      },
+      {
+        "name": "Latte",
+        "image_url": "https://unsplash.com/s/photos/latte-coffee", 
+        "price": { "USD": 4.0, "EUR": 3.8, "INR": 330, "GBP": 3.5 }
+      },
+      {
+        "name": "Americano",
+        "image_url": "https://pixabay.com/images/search/americano%20coffee/", 
+        "price": { "USD": 3.5, "EUR": 3.3, "INR": 290, "GBP": 3.0 }
+      },
+      {
+        "name": "Mocha",
+        "image_url": "https://unsplash.com/s/photos/mocha-coffee", 
+        "price": { "USD": 4.8, "EUR": 4.5, "INR": 380, "GBP": 4.1 }
+      },
+      {
+        "name": "Macchiato",
+        "image_url": "https://pixabay.com/images/search/macchiato/", 
+        "price": { "USD": 4.2, "EUR": 4.0, "INR": 360, "GBP": 3.7 }
+      },
+      {
+        "name": "Flat White",
+        "image_url": "https://unsplash.com/s/photos/flat-white-coffee", 
+        "price": { "USD": 4.3, "EUR": 4.0, "INR": 370, "GBP": 3.9 }
+      },
+      {
+        "name": "Cold Brew",
+        "image_url": "https://unsplash.com/s/photos/cold-brew-coffee", 
+        "price": { "USD": 5.0, "EUR": 4.7, "INR": 420, "GBP": 4.4 }
+      },
+      {
+        "name": "Nitro Coffee",
+        "image_url": "https://unsplash.com/s/photos/nitro-coffee", 
+        "price": { "USD": 5.5, "EUR": 5.0, "INR": 460, "GBP": 4.8 }
+      },
+      {
+        "name": "Affogato",
+        "image_url": "https://pixabay.com/images/search/affogato/", 
+        "price": { "USD": 6.0, "EUR": 5.5, "INR": 500, "GBP": 5.2 }
+      }
+    ],
+    "tea_drinks": [
+      {
+        "name": "Masala Chai",
+        "image_url": "https://unsplash.com/s/photos/masala-chai", 
+        "price": { "USD": 3.0, "EUR": 2.8, "INR": 220, "GBP": 2.6 }
+      },
+      {
+        "name": "Green Tea",
+        "image_url": "https://unsplash.com/s/photos/green-tea", 
+        "price": { "USD": 2.5, "EUR": 2.3, "INR": 180, "GBP": 2.0 }
+      },
+      {
+        "name": "Earl Grey",
+        "image_url": "https://pixabay.com/images/search/earl%20grey%20tea/", 
+        "price": { "USD": 3.5, "EUR": 3.2, "INR": 260, "GBP": 3.0 }
+      },
+      {
+        "name": "Chamomile Tea",
+        "image_url": "https://unsplash.com/s/photos/chamomile-tea", 
+        "price": { "USD": 3.8, "EUR": 3.4, "INR": 280, "GBP": 3.1 }
+      },
+      {
+        "name": "Lemon Honey Tea",
+        "image_url": "https://unsplash.com/s/photos/lemon-honey-tea", 
+        "price": { "USD": 3.2, "EUR": 3.0, "INR": 240, "GBP": 2.8 }
+      }
+    ],
+    "cold_beverages": [
+      {
+        "name": "Iced Latte",
+        "image_url": "https://unsplash.com/s/photos/iced-latte", 
+        "price": { "USD": 4.5, "EUR": 4.2, "INR": 360, "GBP": 3.9 }
+      },
+      {
+        "name": "Iced Mocha",
+        "image_url": "https://unsplash.com/s/photos/iced-mocha", 
+        "price": { "USD": 4.8, "EUR": 4.5, "INR": 380, "GBP": 4.2 }
+      },
+      {
+        "name": "Cold Chocolate",
+        "image_url": "https://unsplash.com/s/photos/iced-chocolate-drink", 
+        "price": { "USD": 4.0, "EUR": 3.8, "INR": 320, "GBP": 3.5 }
+      },
+      {
+        "name": "Vanilla Frappe",
+        "image_url": "https://unsplash.com/s/photos/vanilla-frappe", 
+        "price": { "USD": 5.0, "EUR": 4.7, "INR": 420, "GBP": 4.4 }
+      },
+      {
+        "name": "Caramel Frappe",
+        "image_url": "https://unsplash.com/s/photos/caramel-frappe", 
+        "price": { "USD": 5.2, "EUR": 4.9, "INR": 440, "GBP": 4.6 }
+      },
+      {
+        "name": "Iced Americano",
+        "image_url": "https://unsplash.com/s/photos/iced-americano", 
+        "price": { "USD": 4.0, "EUR": 3.7, "INR": 330, "GBP": 3.4 }
+      },
+      {
+        "name": "Mint Mojito",
+        "image_url": "https://unsplash.com/s/photos/mint-mojito", 
+        "price": { "USD": 4.5, "EUR": 4.1, "INR": 370, "GBP": 3.8 }
+      },
+      {
+        "name": "Lemon Cooler",
+        "image_url": "https://unsplash.com/s/photos/lemon-cooler-drink", 
+        "price": { "USD": 3.8, "EUR": 3.5, "INR": 310, "GBP": 3.2 }
+      },
+      {
+        "name": "Berry Blast",
+        "image_url": "https://unsplash.com/s/photos/berry-blast-drink", 
+        "price": { "USD": 5.0, "EUR": 4.6, "INR": 420, "GBP": 4.3 }
+      },
+      {
+        "name": "Piña Colada",
+        "image_url": "https://unsplash.com/s/photos/pina-colada", 
+        "price": { "USD": 6.0, "EUR": 5.5, "INR": 500, "GBP": 5.1 }
+      }
+    ]
+  }
+}
